@@ -32,5 +32,5 @@ This project offers a central platform where administrators, faculty, and studen
 **Backend**  
 - Python 3  
 - Django Web Framework  
-- SQLite (or MySQL optionally)
+- SQLite
 
